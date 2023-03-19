@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @candacechou, robotics engineer focusing on computer vision and decision making.
+- 👋 Hi, I’m @candacechou, computer vision and decision making.
 - 👀 I’m interested in ML/DL.
 - 🌱 I’m currently learning Computer Vision and Robotics. It is a whole life learning path. But currently thinking about putting web application 
      into my must-learn list because recommendation system sounds fun, isn't it ?
