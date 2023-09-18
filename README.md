@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @candacechou, computer vision and decision making.
-- 👀 I’m interested in ML/DL.
-- 🌱 I’m currently learning Computer Vision and Robotics. It is a whole life learning path. But currently thinking about putting web application 
-     into my must-learn list because recommendation system sounds fun, isn't it ?
+- 👋 Hi, I’m @candacechou, I am a software engineer specializing to computer vision and deep learning.
+- 👀 I’m interested in learning new stuffs.
+- 🌱 I’m currently learning web development, mainly focus on Node.js and React. 
 - 💞️ I’m looking to collaborate on any cool side project on machine learning and algorithm, preferably with recommendation system, any idea?
-- 📫 How to reach me: chchou@kth.se 
+- 📫 How to reach me: linkedIn : chia-hsuan chou 
 
 <!---
 candacechou/candacechou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
